@@ -4,7 +4,7 @@ Projeto de aplicação que realiza as tarefas de separar e unir arquivos em PDF
 As bibloitecas utilziadas foram:
 * OS
 * Customtkinter
-* Tkintyer
+* Tkinter
 * PyPDF2
 
 ## Imagens da aplicação
