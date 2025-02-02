@@ -5,6 +5,7 @@ As bibloitecas utilziadas foram:
 * OS
 * Customtkinter
 * Tkintyer
+* PyPDF2
 
 ## Imagens da aplicação
 * Menu Principal
